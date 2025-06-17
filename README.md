@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zygi-r-playground-mcp-badge.png)](https://mseep.ai/app/zygi-r-playground-mcp)
+
 # MCP R Playground
 [![PyPI version](https://img.shields.io/pypi/v/rplayground-mcp.svg)](https://pypi.org/project/rplayground-mcp/)
 [![smithery badge](https://smithery.ai/badge/@zygi/r-playground-mcp)](https://smithery.ai/server/@zygi/r-playground-mcp)
